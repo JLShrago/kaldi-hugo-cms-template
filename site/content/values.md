@@ -1,5 +1,6 @@
 +++
-title = "Values"
+page = "/values.html"
+title = "Values2"
 type = "values"
-page="/values.html"
+
 +++
