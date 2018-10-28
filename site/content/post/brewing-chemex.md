@@ -1,5 +1,5 @@
 ---
-title: Here is a post for sure...
+title: Well, we can certain change titles of blog posts...
 date: 2017-01-04 15:04:10 +0000
 description: Brewing with a Chemex probably seems like a complicated, time-consuming
   ordeal, but once you get used to the process, it becomes a soothing ritual that's
